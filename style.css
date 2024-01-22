@@ -1,0 +1,25 @@
+.table1{
+    width: 80;
+    margin: auto;
+    text-align: center;
+}
+td{
+    width: 150;
+    text-align:center}
+.img{
+    text-align: center;}
+.row{
+    text-align: center;}
+h2{
+    background-color: rgb(129, 228, 167);
+    text-align: center;
+}
+.shob{
+    text-align: center;
+}
+.ah2{
+    text-align: center;
+    font-weight: 800;
+    text-transform: capitalize;
+    font-size: xx-large;
+}
